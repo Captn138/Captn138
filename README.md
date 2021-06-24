@@ -10,4 +10,4 @@ I'm an 5th-year engineering student (almost over!).
 
 Sometimes I write code.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Captn138&show_icons=true&theme=tokyonight)
