@@ -4,9 +4,9 @@ The name's Mickael, but everyone calls me Captn.
 I'm an 5th-year engineering student (almost over!).
 
 ## My skills
-- Turning the computer on
-- Procrastinating
-- Deleting important emails
+- Turning the computer on 🖥
+- Procrastinating 🧠
+- Deleting important emails 
 
 Sometimes I write code.
 
