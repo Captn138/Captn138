@@ -18,7 +18,8 @@ Sometimes I write code.
 ![](https://img.shields.io/badge/Tools-Qemu-informational?Style=flat&logo=qemu&logoColor=white&color=2bbc8a)
 
 Profile hits:
-![](https://profile-counter.glitch.me/X1pe0/count.svg)
+
+![](https://profile-counter.glitch.me/Captn138/count.svg)
 
 ## My most cherished repos
 [![Mayushii](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=mayushii&theme=tokyonight)](https://github.com/Captn138/mayushii)
