@@ -22,3 +22,8 @@ Sometimes I write code.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Qemu-informational?Style=flat&logo=qemu&logoColor=white&color=2bbc8a)
+
+
+## Profile hits
+![](https://profile-counter.glitch.me/X1pe0/count.svg)
