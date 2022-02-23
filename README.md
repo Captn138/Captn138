@@ -18,3 +18,7 @@ Sometimes I write code.
 
 [![Jekyll-website](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=jekyll-website&theme=tokyonight)](https://github.com/Captn138/jekyll-website)
 [![Zshrc](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=zshrc&theme=tokyonight)](https://github.com/Captn138/zshrc)
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
