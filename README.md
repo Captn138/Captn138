@@ -24,6 +24,7 @@ Profile hits:
 
 ## My most cherished repos
 [![Mayushii](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=mayushii&theme=tokyonight)](https://github.com/Captn138/mayushii)
-
 [![Jekyll-website](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=jekyll-website&theme=tokyonight)](https://github.com/Captn138/jekyll-website)
-[![Zshrc](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=zshrc&theme=tokyonight)](https://github.com/Captn138/zshrc)
+
+[![Zshrc](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=customconfigs&theme=tokyonight)](https://github.com/Captn138/customconfigs)
+[![Zshrc](https://github-readme-stats.vercel.app/api/pin/?username=Captn138&repo=myopenvpn&theme=tokyonight)](https://github.com/Captn138/myopenvpn)
