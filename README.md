@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 The name's Mickael, but everyone calls me Captn.
-I'm an 5th-year engineering student (almost over!).
+I'm a Linux systems engineer, with good knowledge about cybersecurity and networks.
 
 ## My skills
 - Turning the computer on 🖥
 - Procrastinating 🧠
 - Deleting important emails 🗑️
+- Telling everyone I use Arch Linux
 
-Sometimes I write code.
+Sometimes I write scripts.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Captn138&show_icons=true&theme=tokyonight)
+![Captn138's GitHub stats](https://github-readme-stats.vercel.app/api?username=Captn138&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Captn138&theme=tokyonight&layout=compact)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
