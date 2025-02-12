@@ -7,7 +7,7 @@ I'm a Linux systems engineer, with good knowledge about cybersecurity and networ
 - Turning the computer on 🖥
 - Procrastinating 🧠
 - Deleting important emails 🗑️
-- Telling everyone I use Arch Linux
+- Telling everyone I use Arch Linux 🤓
 
 Sometimes I write scripts.
 
